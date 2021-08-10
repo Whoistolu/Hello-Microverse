@@ -5,7 +5,7 @@
 
 This project is aimed at showing that I have mastered the tools and best practices reuqired for professionalism.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./image/new.png)
 
 Additional description about the project and its features.
 
