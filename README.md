@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://keen-bell-88be86.netlify.app/)
 
 
 ## To get a local copy run the following steps:
